@@ -13,7 +13,5 @@ struct ContentView: View {
                     .opacity(1.0)
             }
         }
-        
-        
     }
 }
